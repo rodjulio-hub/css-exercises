@@ -7,3 +7,12 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: #90EE90;
+    font-weight: 700;
+}
